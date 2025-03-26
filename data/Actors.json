@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"seta intro v2","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cursor","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"mark protagonista","characterIndex":0,"characterName":"mark protagonista","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mark prota","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mark","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"May Protagonista","characterIndex":0,"characterName":"May Protagonista","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"May protagonista","traits":[],"initialLevel":1,"maxLevel":99,"name":"May","nickname":"","note":"","profile":""}
+]
