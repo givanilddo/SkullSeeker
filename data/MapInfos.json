@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Ilha 1","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":true,"name":"Praia Ilha 1","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Vila ilha 1","order":4,"parentId":8,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"Vila ilha 1","order":4,"parentId":8,"scrollX":728,"scrollY":427.55555555555554},
 {"id":4,"expanded":true,"name":"Floresta 1 ilha 1","order":5,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":5,"expanded":true,"name":"Floresta 2 ilha 1","order":6,"parentId":3,"scrollX":720.8888888888889,"scrollY":436.44444444444446},
 {"id":6,"expanded":true,"name":"ilha 2","order":15,"parentId":0,"scrollX":819,"scrollY":461},
@@ -18,8 +18,8 @@ null,
 {"id":16,"expanded":true,"name":"Praia Ilha 1 a esquerda","order":8,"parentId":14,"scrollX":832,"scrollY":640},
 {"id":17,"expanded":true,"name":"Praia Ilha 1 a Direita","order":9,"parentId":16,"scrollX":728,"scrollY":427.55555555555554},
 {"id":18,"expanded":true,"name":"Casa 1 ilha 1","order":10,"parentId":1,"scrollX":810,"scrollY":448},
-{"id":19,"expanded":true,"name":"Casa 3 ilha 1","order":12,"parentId":20,"scrollX":819,"scrollY":461},
+{"id":19,"expanded":true,"name":"Casa 3 ilha 1","order":12,"parentId":20,"scrollX":728,"scrollY":427.55555555555554},
 {"id":20,"expanded":true,"name":"Casa 2 ilha 1","order":11,"parentId":18,"scrollX":819,"scrollY":461},
-{"id":21,"expanded":true,"name":"Casa 4 ilha 1","order":13,"parentId":20,"scrollX":819,"scrollY":461},
-{"id":22,"expanded":false,"name":"Casa 4 ilha 1 segundo andar","order":14,"parentId":21,"scrollX":819,"scrollY":461}
+{"id":21,"expanded":true,"name":"Casa 4 ilha 1","order":13,"parentId":20,"scrollX":728,"scrollY":427.55555555555554},
+{"id":22,"expanded":false,"name":"Casa 4 ilha 1 segundo andar","order":14,"parentId":21,"scrollX":728,"scrollY":427.55555555555554}
 ]
